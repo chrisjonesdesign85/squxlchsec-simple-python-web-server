@@ -1,3 +1,6 @@
+# SQUXLCH-SEC SIMPLE PYTHON WEB SERVER
+# created by: Squxlch
+
 from http.server import SimpleHTTPRequestHandler, HTTPServer
 
 # Define the server address and port
