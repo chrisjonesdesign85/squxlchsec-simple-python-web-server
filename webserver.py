@@ -9,7 +9,7 @@ port = 1337         # Standard HTTP port
 
 # Create a request handler and HTTP server
 class MyRequestHandler(SimpleHTTPRequestHandler):
-    # Optionally override methods to customize responses
+    # To-Do: override methods to customize responses
     pass
 
 def run_server():
